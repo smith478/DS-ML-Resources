@@ -25,7 +25,8 @@ has better descriptions.
 
 ### Time Series
 - [Google's Temporal Fusion Transformer](https://github.com/google-research/google-research/tree/master/tft)
-- [scikit-learn time, aka sktime](https://github.com/alan-turing-institute/sktime)
+- [scikit-learn time, aka sktime](https://github.com/alan-turing-institute/sktime)  
+    - [Tutorial - Markus Loning](https://www.youtube.com/watch?v=Wf2naBHRo8Q&ab_channel=PyData)
 
 ### Graph Neural Networks
 - [Spektral](https://github.com/danielegrattarola/spektral)
@@ -97,6 +98,10 @@ for structuring code and projects
 - Turn any CNN image classifier into an object detector with Keras, TF, and OpenCV: [blog](https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/)
 - Cool website that allows you to view what is happening inside an MLP: [link](http://playground.tensorflow.org/)
 
+### Front End
+- [streamlit](https://www.streamlit.io/)
+- [Dash Plotly](https://plotly.com/dash/)
+
 ### Data Visualization
 - [matplotlib](https://matplotlib.org/)
 - [Altair](https://altair-viz.github.io/)
@@ -127,6 +132,9 @@ oriented.
 
 ### Blog Posts
 - Introduction to AWS Lambda, layers, and boto3: [link](https://towardsdatascience.com/introduction-to-amazon-lambda-layers-and-boto3-using-python3-39bd390add17#:~:text=Click%20on%20the%20option%20Layers,the%20Layer%20(Figure%204).)
+
+### Docker
+- Docker for Machine Learning: [blog](https://mlinproduction.com/docker-for-ml-part-3/)
 
 ## Programing Languages
 - [Python](https://www.python.org/)

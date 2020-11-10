@@ -27,6 +27,7 @@ has better descriptions.
 - [Google's Temporal Fusion Transformer](https://github.com/google-research/google-research/tree/master/tft)
 - [scikit-learn time, aka sktime](https://github.com/alan-turing-institute/sktime)  
     - [Tutorial - Markus Loning](https://www.youtube.com/watch?v=Wf2naBHRo8Q&ab_channel=PyData)
+- [Facebook's Prophet](https://facebook.github.io/prophet/)
 
 ### Graph Neural Networks
 - [Spektral](https://github.com/danielegrattarola/spektral)
@@ -101,6 +102,7 @@ for structuring code and projects
 ### Front End
 - [streamlit](https://www.streamlit.io/)
 - [Dash Plotly](https://plotly.com/dash/)
+- [BentoML](https://docs.bentoml.org/en/latest/index.html)
 
 ### Data Visualization
 - [matplotlib](https://matplotlib.org/)
@@ -142,6 +144,14 @@ oriented.
 - [C++](https://www.cplusplus.com/)
 - [R](https://www.r-project.org/)
 
+## Development Tools
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [VSCode](https://code.visualstudio.com/)
+- [SublimeText](https://www.sublimetext.com/)
+- [Atom](https://atom.io/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Postman](https://www.postman.com/downloads/)
+
 ## Hardware
 - Article comparing GPU performance: [TimDettmers](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/#GPU_Deep_Learning_Performance)
 - Get compatibility of hardware components: [link](https://pcpartpicker.com/)
@@ -151,4 +161,5 @@ oriented.
 - Geometry and the imagination: [blog](https://lamington.wordpress.com/)
 - Sketches of topology: [blog](https://sketchesoftopology.wordpress.com/)
 - SuperMathematics [Space Oddity](https://supermathematics.wordpress.com/)
+- [Simons Foundation](https://www.simonsfoundation.org/)
 - [Math Stack Exchange](https://math.stackexchange.com/)

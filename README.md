@@ -93,6 +93,7 @@ for structuring code and projects
 ### Model Explainability
 - [Lime](https://github.com/marcotcr/lime)
 - [Shap](https://github.com/slundberg/shap)
+- [shapash](https://shapash.readthedocs.io/en/latest/)
 - [TF Explain](https://github.com/sicara/tf-explain)
     - [blog post](https://medium.com/analytics-vidhya/tf-explain-working-283a311f1276)
 - [CNN Localization](https://www.sicara.ai/blog/2019-08-28-interpretability-deep-learning-tensorflow)
